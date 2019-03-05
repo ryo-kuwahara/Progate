@@ -7,7 +7,7 @@ gem 'rails', '~> 5.0.0'
 # gem 'sqlite3', '~> 1.3.6'
 gem 'sqlite3', group: [:development, :test]
 gem 'pg', group: :production
-
+# コメント
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
